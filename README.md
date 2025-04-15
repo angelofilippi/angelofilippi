@@ -31,10 +31,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelofilippi&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofilippi&layout=compact&theme=dracula"/>
 </p>
-
----
-
-### ✨ Um pouco de estilo final
-
-```bash
-# Códigos, cafés e criatividade.
