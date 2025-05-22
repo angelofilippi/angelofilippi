@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofilippi&layout=compact&langs_count=10&theme=radical"/>
 
   
-  ## Atualmente estudo as seguintes linguagens: 
+  ## Atualmente estudo sobre as linguagens e ferramentas abaixo: 
       
   <!-- Ícones alinhados na vertical -->
   <p align="left">
