@@ -25,9 +25,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🛠️ Tecnologias e linguagens utilizadas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelofilippi&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofilippi&layout=compact&theme=dracula"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelofilippi&layout=compact&theme=radical)
