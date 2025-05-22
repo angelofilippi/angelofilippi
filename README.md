@@ -27,11 +27,27 @@
 
 ## 🛠️ Tecnologias e linguagens utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelofilippi&layout=compact&theme=radical)
+<table>
+  
+  
+      
+  <!-- Quadrado com linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofilippi&layout=compact&langs_count=10&theme=radical"/>
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-</div>
+  
+  ## Atualmente estudo as seguintes linguagens: 
+      
+  <!-- Ícones alinhados na vertical -->
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </p>
+
+    
+  
+</table>
+
+
+
