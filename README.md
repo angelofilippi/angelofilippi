@@ -1,9 +1,16 @@
-# 👋 Olá, eu sou o Ângelo Henrique Filippi  
- 
-💻 **Assistente de TI** | 📚 **Estudante em Desenvolvimento de Sistemas**  
-🎯 Focado em **Java** e na construção de **APIs seguras com Spring Boot, JWT e boas práticas de arquitetura**.  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=%C3%82ngelo%20Henrique%20Filippi&fontAlign=50&fontAlignY=35&color=0:7DF9FF,100:1E90FF&fontColor=ffffff&animation=twinkling&fontSize=42" alt="Ângelo Henrique Filippi"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=7DF9FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-End+%7C+Estudante+em+Desenvolvimento+de+Sistemas;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+JWT+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL;Aberto+a+freelas+e+colabora%C3%A7%C3%B5es"
+    alt="Subtítulo"
+  />
+</p>
 
 ---
+
 ## Esse sou eu quando não funciona e eu não sei por que 😟
 
  <img src="https://media1.tenor.com/m/CEaha30DcGAAAAAd/monkey-computer.gif" width="400px" alt="Coding gif"/>
@@ -18,22 +25,17 @@
 
 ## ⚡ Tecnologias & Ferramentas
 <p align="center">
-  <!-- Java -->
+
   <img src="https://img.icons8.com/color/60/java-coffee-cup-logo.png" width="60" height="60" alt="Java"/>
   
-  <!-- Spring -->
   <img src="https://img.icons8.com/color/60/spring-logo.png" width="60" height="60" alt="Spring Boot"/>
   
-  <!-- PostgreSQL -->
   <img src="https://img.icons8.com/color/60/postgreesql.png" width="60" height="60" alt="PostgreSQL"/>
-  
-  <!-- Docker -->
+
   <img src="https://img.icons8.com/fluency/60/docker.png" width="60" height="60" alt="Docker"/>
   
-  <!-- Git -->
   <img src="https://img.icons8.com/color/60/git.png" width="60" height="60" alt="Git"/>
   
-  <!-- GitHub -->
   <img src="https://img.icons8.com/glyph-neue/60/github.png" width="60" height="60" alt="GitHub"/>
 </p>
 
@@ -41,39 +43,68 @@
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/angelofilippi/angelofilippi/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
-## 🚀 Atualmente estudando
-- **APIs seguras** → Autenticação & Autorização com **JWT**  
-- **Arquitetura limpa & escalabilidade**  
-- **Python** para automações  
-- **Docker** para ambientes isolados  
-
----
-
-## 🌐 Conecte-se comigo:
 <p align="center">
-  <a href="https://www.linkedin.com/in/angelohenriquefilippi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/angeloh.filippi" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:angelofilippih@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=angelofilippi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## ✨ Motto
-> _"A tecnologia é a ponte entre a ideia e o impacto."_  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=angelofilippi&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angelofilippi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofilippi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7DF9FF&center=true&vCenter=true&width=800&lines=Bora+construir+APIs+seguras+em+Java%3F;Spring+Boot+%7C+JWT+%7C+Docker+%7C+PostgreSQL;Aberto+a+freelas+e+colabora%C3%A7%C3%B5es"
+    alt="CTA"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/angelohenriquefilippi" title="LinkedIn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/angeloh.filippi" title="Instagram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:angelofilippih@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/angelofilippi?tab=followers">
+    <img src="https://img.shields.io/github/followers/angelofilippi?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+<p align="center">
+  <em>Resposta mais rápida:</em> LinkedIn · <em>Assuntos:</em> APIs seguras, Spring Security, JWT, Docker, PostgreSQL
+</p>
+
+<details>
+  <summary><strong>📇 Cartão de visita (clique para abrir)</strong></summary>
+
+  - 🚀 Stack principal: **Java + Spring Boot**, **JWT/Spring Security**, **JPA**, **Docker**, **PostgreSQL**
+  - 🎯 Interesses: APIs REST, arquitetura limpa, observabilidade e performance
+  - 🤝 Como posso ajudar: criar **APIs seguras**, revisar segurança com **JWT**, containerizar com **Docker**
+  - 📩 E-mail direto: <a href="mailto:angelofilippih@gmail.com">angelofilippih@gmail.com</a>
+</details>
+
+---
 
 <p align="center">
   <img src="https://media.tenor.com/tBITQKZ1vx8AAAAM/java-error.gif" width="80px"/>
-  <img src="https://i.makeagif.com/media/3-24-2016/xKtSm6.gif" width="80px"/>
-  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="80px"/>
 </p>
+
+
